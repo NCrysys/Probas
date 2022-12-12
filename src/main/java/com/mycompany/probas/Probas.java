@@ -18,6 +18,7 @@ public class Probas {
         int n=entrada.nextInt();
         n=entrada.nextInt();
         System.out.println(n);
+        //pueba hviyutcvyuj 
     }
 }
 
