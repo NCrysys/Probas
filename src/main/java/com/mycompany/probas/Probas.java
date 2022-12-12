@@ -11,7 +11,7 @@ package com.mycompany.probas;
  */
 
 //Este é o cambio que fago sobre o Proxecto de Noel
-//hvecuYWVCIERIUAGV
+//hvecuYWVC
 
 import java.util.Scanner;
 
