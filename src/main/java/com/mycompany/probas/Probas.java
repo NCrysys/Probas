@@ -11,7 +11,6 @@ package com.mycompany.probas;
  */
 
 //Este é o cambio que fago sobre o Proxecto de Noel
-//hvecuYWVC
 
 import java.util.Scanner;
 
@@ -22,7 +21,6 @@ public class Probas {
         int n=entrada.nextInt();
         n=entrada.nextInt();
         System.out.println(n);
-        //pueba hviyutcvyuj 
     }
 }
 
